@@ -15,3 +15,13 @@ suppoer we insert pendrive in system and we are playing a movie from pd as well 
 then in that base two thread will be generated one for reading() and other for writing()
 
 Thread is a segment of process while process is program in execution.
+
+Everything about thread in readily defined in the package java.lang and in a class Thread and interface runnable in it.
+Thread starts executing only if start() is called.
+
+class is extended and interface in implemented
+
+how to create own thread
+
+extend Thread and override run method.
+
