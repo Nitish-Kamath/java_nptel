@@ -1,0 +1,17 @@
+// Multi-Threading
+
+single thread :- one fn completes its execution then other fn starts its execution
+
+multi thread :- more than one fn executes simultaneously not necessay all fn executes simulatanously.
+
+
+muli threading concept is used in desining system software.
+
+in multi threading vairable exchange is possible
+multithreading is also know as multi-tasking.
+
+In layman Language :- thread is understood as task
+suppoer we insert pendrive in system and we are playing a movie from pd as well as copying the file to pd 
+then in that base two thread will be generated one for reading() and other for writing()
+
+Thread is a segment of process while process is program in execution.
